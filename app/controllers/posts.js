@@ -2,7 +2,7 @@ import Controller from '@ember/controller';
 
 export default Controller.extend({
 
-        propA: 'You need to write tests',
+        propA: 'You need to write tests-first',
     propB: 'And write one for me too',
 
   setPropB(str) {
